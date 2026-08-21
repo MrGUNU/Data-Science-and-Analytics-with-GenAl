@@ -1,0 +1,21 @@
+{
+    "books": [
+        {
+            "id": "B-S0FXK",
+            "title": "GOT",
+            "author": "Gunu",
+            "total_copies": 34,
+            "available_copies": 34,
+            "added_on": "2026-08-21 19-46-30"
+        },
+        {
+            "id": "B-8M6J2",
+            "title": "Breakeing Bad",
+            "author": "Bruce",
+            "total_copies": 25,
+            "available_copies": 25,
+            "added_on": "2026-08-21 19-58-52"
+        }
+    ],
+    "members": []
+}
