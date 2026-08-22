@@ -17,5 +17,12 @@
             "added_on": "2026-08-21 19-58-52"
         }
     ],
-    "members": []
+    "members": [
+        {
+            "id": "M-HUEGJ",
+            "name": "Bhoumik",
+            "email": "bhoumik@gooogle.com",
+            "borrowed": []
+        }
+    ]
 }
